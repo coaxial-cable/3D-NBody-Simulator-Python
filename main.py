@@ -1,2 +1,4 @@
 def Main():
-    pass
+    print("This is Prototype #")
+
+Main()
