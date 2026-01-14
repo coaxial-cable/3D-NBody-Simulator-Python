@@ -1,4 +1,4 @@
-from config.ConfigManager import ConfigManager
+from config import ConfigManager
 
 def run():
     cm = ConfigManager()
